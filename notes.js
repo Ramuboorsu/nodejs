@@ -1,3 +1,5 @@
+
+//hello world
 var fs = require('fs');
 var chalk = require('chalk');
 // function add(a,b)
@@ -77,3 +79,6 @@ function dataLoad()
 }
 
 module.exports = {add,removeAll};
+
+
+
