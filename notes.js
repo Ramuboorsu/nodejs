@@ -33,6 +33,7 @@ else{
 }
 
 
+/* function to removeall */
 function removeAll(title)
 {
 var dupp = dataLoad();
