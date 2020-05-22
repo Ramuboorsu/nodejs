@@ -8,7 +8,7 @@ var chalk = require('chalk');
 
 // module.exports = {add};
 
-// to add to file
+// to add to file of alll
 function add(title)
 {
 
