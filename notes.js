@@ -23,7 +23,7 @@ function add(title)
     load.push({
         title : title
     })
-
+//save to load
     saveload(load);
     console.log(chalk.green.inverse("title inserted"));
 }
