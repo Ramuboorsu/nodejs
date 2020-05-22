@@ -1,5 +1,5 @@
 
-//hello world
+//hello world not now
 var fs = require('fs');
 var chalk = require('chalk');
 // function add(a,b)
@@ -10,7 +10,7 @@ var chalk = require('chalk');
 
 // module.exports = {add};
 
-// to add to file of alll
+// to add to file of alll 
 function add(title)
 {
 
